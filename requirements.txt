@@ -1,0 +1,4 @@
+dotenv
+volcengine-python-sdk[ark]
+openai
+gradio
